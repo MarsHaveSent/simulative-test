@@ -1,1 +1,3 @@
-Text in the second file
+Text in srcond file
+Testing branch feature 
+
